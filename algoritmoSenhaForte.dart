@@ -1,7 +1,7 @@
 import 'dart:io';
 import 'dart:math';
 
-
+//oi
 void main() {
   //String nomeUsuario = stdin.readLineSync()!;
 
